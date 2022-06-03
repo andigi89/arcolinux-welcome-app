@@ -1,9 +1,9 @@
 [Desktop Entry]
-Name=Arcolinux Welcome App
-GenericName=Arcolinux Welcome App
-X-GNOME-FullName=Arcolinux Welcome App
-Comment=Welcome Application for Arcolinux Installations
-Exec=/usr/local/bin/arcolinux-welcome-app
+Name=Moehrlux Welcome App
+GenericName=Moehrlux Welcome App
+X-GNOME-FullName=Moehrlux Welcome App
+Comment=Welcome Application for Moehrlux Installations
+Exec=/usr/local/bin/moehrlux-welcome-app
 Icon=arcolinux-hello
 Terminal=false
 Type=Application
